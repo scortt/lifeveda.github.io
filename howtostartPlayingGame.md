@@ -1,3 +1,5 @@
+#How to Start Playing Game
+
 I’d like to share my journey from being an ordinary gamer to exploring the vast world of video games, offering insights for those new to gaming.
 
 As someone who identifies as a seasoned gamer—seasoned to the point where, at the age of 35, I realized I had missed out on many iconic titles like Dark Souls—I consider myself an experienced yet traditional gamer. My perspective began to shift with the birth of my son in 2016, prompting me to think about how I could share the joy of gaming with him. This led me to contemplate how I would discuss video games with him, his teachers, and others, sparking my interest in a broader range of video games than I had previously explored.
