@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # How to Start Playing Game
 
 I’d like to share my journey from being an ordinary gamer to exploring the vast world of video games, offering insights for those new to gaming.
