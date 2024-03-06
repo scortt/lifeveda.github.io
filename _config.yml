@@ -1,8 +1,8 @@
 #remote_theme: pages-themes/modernist@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Modernist theme
-description: Modernist is a theme for GitHub Pages.
+title: Life Veda
+description: Gameing, Investing, Learning Math.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-modernist
