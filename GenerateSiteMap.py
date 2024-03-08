@@ -16,7 +16,7 @@ def generate_sitemap(markdown_dir, base_url, output_file='sitemap.xml'):
             if file.endswith(".md"):
                 rel_path = os.path.relpath(os.path.join(root, file), markdown_dir)
                 url_path = os.path.splitext(rel_path)[0].replace(os.sep, '/')
-                full_url = f"{base_url}/{url_path}/"
+                full_url = f"{base_url}/{url_path}.html"
                 
                 sitemap_entries += f"""  <url>
     <loc>{full_url}</loc>

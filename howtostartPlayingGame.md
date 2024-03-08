@@ -17,3 +17,5 @@ Before I begin, I’ll share my experience: everyone can play difficult video ga
 However, where might I discover games that are truly worth playing? Is there an equivalent to IMDb for video games?
 
 Yes, we do. https://www.metacritic.com is the best website for video game scores. In the following articles, I will teach you how to use Metacritic.
+
+[Come back Home Page](/.)
