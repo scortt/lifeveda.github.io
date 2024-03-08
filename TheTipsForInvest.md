@@ -48,3 +48,5 @@ Stock price movements fall into three categories: rising, falling, and oscillati
 The likelihood of an individual picking good stocks and outperforming the index over the long term is quite high, though significantly surpassing the index is less likely without professional expertise, which is rare.
 
 The advantage of professional investors may not always lie in picking better stocks but in avoiding unnecessary risks.
+
+[Go HOME PAGE](/.)

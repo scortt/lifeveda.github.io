@@ -11,3 +11,5 @@ Imagine, for argument’s sake, a hypothetical offer of $3 million lands on your
 Now, let’s up the ante to a $10 million offer. For many entrepreneurs, this significantly heftier sum might prove irresistible. The logic is straightforward: channeling these funds into the safest bet out there—U.S. Treasury bonds, boasting a stable 3% yield—would virtually guarantee the preservation of your lifestyle without a hitch. This approach simplifies both the calculation and the decision-making process, providing a crystal-clear roadmap for your financial future.
 
 Viewing the $3 million as a “floor” and the $10 million as a “ceiling” for your business’s worth allows for a pragmatic assessment of its market standing. Should an offer fall within this spectrum, it might just be the opportune moment to stand pat, keeping the business within your grasp.
+
+[Go HOME PAGE](/.)
