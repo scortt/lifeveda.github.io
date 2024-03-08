@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /admin/
+
+User-agent: Googlebot
+Disallow: /no-google/
+
+Sitemap: https://4lifeveda.com/sitemap.xml
+
