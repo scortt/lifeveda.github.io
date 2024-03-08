@@ -2,7 +2,7 @@
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Life Veda
-description: Gameing, Investing, Learning Math.
+description: Gaming, Investing, Learning Math.
 show_downloads: false
 google_analytics: G-M9RR9YXJF6
 theme: jekyll-theme-modernist
