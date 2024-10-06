@@ -17,3 +17,10 @@ layout: default
 [Cracking the Code: How Teens Can Master the Art of Business Valuation](./CrackingTheCode.html).
 
 > Unlock the mystery of business valuation with our comprehensive guide, designed for entrepreneurs at the crossroads of selling their successful ventures. If you're running a streamlined operation with a solid annual income, determining the true value of your business is crucial before considering any sale offers. This article delves deep into the valuation process, exploring scenarios from unsolicited offers to the strategic financial planning post-sale. Whether faced with a tempting $3 million bid or a life-changing $10 million proposal, understanding the implications on your lifestyle and financial security is essential. Learn how to assess offers against the backdrop of industry norms, utilizing the example of a 10x earnings valuation and the secure fallback of U.S. Treasury bonds yielding a stable return. Navigate the delicate balance between selling for immediate gain and preserving the legacy of your business with insights that can help you make an informed decision. Ideal for modestly-sized business owners looking to grasp the nuances of market valuation and the potential impact on their future, this guide offers a clear pathway through the complexities of business valuation.
+
+## History
+
+[The Song Dynasty: A Golden Age of Chinese Civilization](./SongDynasty.html).
+
+> 第一篇历史笔记是关于《大宋繁华》这本书的。
+
