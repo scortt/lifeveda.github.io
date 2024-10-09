@@ -5,6 +5,8 @@ layout: default
 # 《大宋繁华》 读书笔记
 # Reading Notes on "The Prosperity of the Great Song Dynasty"
 
+---
+
 ## 北宋繁华的真相
 ## The Truth About the Prosperity of the Northern Song Dynasty
 

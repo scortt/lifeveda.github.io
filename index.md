@@ -18,6 +18,10 @@ layout: default
 
 > Unlock the mystery of business valuation with our comprehensive guide, designed for entrepreneurs at the crossroads of selling their successful ventures. If you're running a streamlined operation with a solid annual income, determining the true value of your business is crucial before considering any sale offers. This article delves deep into the valuation process, exploring scenarios from unsolicited offers to the strategic financial planning post-sale. Whether faced with a tempting $3 million bid or a life-changing $10 million proposal, understanding the implications on your lifestyle and financial security is essential. Learn how to assess offers against the backdrop of industry norms, utilizing the example of a 10x earnings valuation and the secure fallback of U.S. Treasury bonds yielding a stable return. Navigate the delicate balance between selling for immediate gain and preserving the legacy of your business with insights that can help you make an informed decision. Ideal for modestly-sized business owners looking to grasp the nuances of market valuation and the potential impact on their future, this guide offers a clear pathway through the complexities of business valuation.
 
+[Economic Indicators for Professionals: Putting the Statistics into Perspective](./EIforP.html)
+
+> Dive into the world of economic indicators with a focus on GDP (Gross Domestic Product). This article explores the concept of GDP, its reporting forms, and its significance for policymakers. It also delves into the correlations between GDP, non-farm employment, and tax revenue. The piece concludes with personal insights on the nature of GDP, its relationship with inflation and capital appreciation, and thoughts on effective monetary systems in various economic contexts, including digital economies like online games.
+
 ## History
 
 [The Song Dynasty: A Golden Age of Chinese Civilization](./SongDynasty.html).
