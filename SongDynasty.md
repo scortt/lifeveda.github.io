@@ -119,9 +119,13 @@ The result of enriching the ruling foundation was the so-called "prosperity" of 
 - *The author believes that the decreasing proportion of poll tax led to China's population reaching 400 million during the Qing Dynasty.*
 
 综合而言，这本书写的不是很好。不够生动，但是好在比较全面。我想这个里面提到了一个根本的矛盾，是从秦之后就开始发生的，就是从秦之后，中国就没有私有土地，所谓"普天之下，莫非王土"，作者认为这是一个基本的矛盾。
+
+
 *Overall, this book is not very well written. It's not vivid enough, but it is comprehensive. I think it mentions a fundamental contradiction that began after the Qin Dynasty, which is that after Qin, China no longer had private land ownership. The saying "All land under heaven belongs to the king" reflects this, and the author considers this a basic contradiction.*
 
 但是我觉得作者没有提到马尔萨斯陷阱。也没有从 GDP 的角度去分析仔细分析整个宋朝的基础。无论如何，如果在古代社会，人均 GDP 不能超过马尔萨斯陷阱的话，人口的增加就是一个显著的进步。因为总的 GDP 是伴随人口增加的。虽然这种增加是线性的，是不能突破马尔萨斯陷阱的，但是谁又能突破马尔萨斯陷阱呢。
+
+
 *However, I feel that the author didn't mention the Malthusian trap. Nor did they analyze the foundation of the entire Song Dynasty from a GDP perspective. In any case, if in ancient societies per capita GDP couldn't exceed the Malthusian trap, population growth would be a significant progress. This is because total GDP increases with population. Although this increase is linear and cannot break through the Malthusian trap, who could break through the Malthusian trap anyway?*
 
 [Go HOME PAGE](/.)
