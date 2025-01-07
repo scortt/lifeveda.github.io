@@ -73,4 +73,10 @@ Of course, these are very extreme theoretical trend practices, which actually do
 而且，我们可以知道，既然有趋势，就是有反趋势，如果先是一个趋势，再是一个反趋势，那么这就是更大级别的一个震荡。列入 SPX 从96年到09年的13年震荡，就是2个牛市趋势，两个熊市趋势造成的。
 Moreover, we can know that since there is a trend, there is a counter-trend. If there is first a trend and then a counter-trend, then this is a larger-level oscillation. For example, the 13-year oscillation of the SPX from 1996 to 2009 was caused by two bull market trends and two bear market trends.
 
+
+### 趋势的延续和结束
+
+我们举个例子，以上涨趋势为例，如果出现买入区间和盈利区间之后，盈利区间的买入者又产生了新的盈利区间，我们认为这种上涨趋势就是延续的。从这个角度上来说，很多股票长期一直是这样。比如苹果。见下图。
+![AAPL](https://www.tradingview.com/x/qG1szPBQ/)
+
 [Come back Home Page](/.)
