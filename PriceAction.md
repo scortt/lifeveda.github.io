@@ -155,6 +155,7 @@ But if we enlarge Apple's K-line to the weekly level, we can see more trends and
 
 
 [ORCL Analysis Log](./ORCL.html)
+
 [MSFT Analysis Log](./MSFT.html)
 
 ---
