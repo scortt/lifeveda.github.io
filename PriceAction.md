@@ -158,6 +158,7 @@ But if we enlarge Apple's K-line to the weekly level, we can see more trends and
 
 [MSFT Analysis Log](./MSFT.html)
 
+[002032 Analysis Log](./002032.html)
 ---
 
 [Come back Home Page](/.)
