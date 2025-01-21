@@ -1,10 +1,19 @@
+# Global rules
 User-agent: *
-Disallow: /private/
-Disallow: /tmp/
-Disallow: /admin/
+Allow: /
+Disallow: /assets/
+Disallow: /.git/
+Disallow: /_layouts/
+Disallow: /_includes/
+Disallow: /_drafts/
+Disallow: /README.md
 
-User-agent: Googlebot
-Disallow: /no-google/
+# Allow search engines to access all content pages
+Allow: /*.html$
 
+# Specify sitemap location
 Sitemap: https://4lifeveda.com/sitemap.xml
+
+# Crawl-delay to prevent server overload
+Crawl-delay: 10
 
