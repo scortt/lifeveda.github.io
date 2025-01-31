@@ -27,4 +27,27 @@ MSFT 的月线趋势很明显是两个大趋势，一个是2000年之前的上�
 如果不能挽救走势再卖出会比较好，但是大概率应该不会发生这样的情况。
 
 
+Date: 30 Jan' 25
+
+我们在这里要比较一下 $NVDA 和 $MSFT 的月线走势。
+
+
+![MSFT Monthly](https://www.tradingview.com/x/Y6MFgqtb/)
+
+![NVDA Monthly](https://www.tradingview.com/x/pUAPODrn/)
+
+对比 NVDA 和 MSFT 的月线走势，我们可以很明显的知道，MSFT 的月线是要比 NVDA 要弱的。因为 MSFT 的月线已经转头了，而 NVDA 的月线还没有转头。
+
+然后我们再比较周线走势，
+
+![MSFT WEEKLY](https://www.tradingview.com/x/pUAPODrn/)
+
+![NVDA WEEKLY](https://www.tradingview.com/x/vLMdrndC/)
+
+MSFT 的周线从 Feb' 2024 开始，就进入了震荡区间，到现在我们已经确认了这个震荡区间。那么也就是说，对于微软来说，从 Dec' 2022 年开始的周线趋势结束了。这是非常明确的。那么我们现在的考虑是，微软是否能找到新的向上的周线的趋势。那么在这个基础上来看，如果 MSFT 必须能形成日线趋势，如果日线趋势都不能形成，那么自然不可能形成周线趋势。
+
+所以对于 MSFT 来说，这里必须要做的是就是震荡区间内操作，日线趋势形成之后再考虑追加仓位才是合适的选择。
+
+
+
 
