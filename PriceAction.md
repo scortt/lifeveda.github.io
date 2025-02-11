@@ -172,6 +172,9 @@ But if we enlarge Apple's K-line to the weekly level, we can see more trends and
 
 有别于之前相对强弱和趋势分类更关注纯价格的分析，基础动能则引入了交易量。逻辑上来说，趋势分类、相对强弱这两个分析环节结束之后，相对更强的趋势分类的品种自然会吸引更多的参与者，而这些参与者会提高基础动能，当基础动能提高之后，就带来了更大的涨幅。
 
+#### 技术指标辅助
+
+技术指标辅助 + 形态分析可以更好的辅助我们判断形态的的未来。例如形态新高但是技术指标没有，例如技术指标在牛熊分界点，但是形态还在盘整。
 [ORCL Analysis](./ORCL.html)
 
 [MSFT Analysis](./MSFT.html)
