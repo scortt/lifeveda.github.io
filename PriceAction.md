@@ -181,4 +181,26 @@ But if we enlarge Apple's K-line to the weekly level, we can see more trends and
 
 [002032 Analysis](./002032.html)
 
+## 个股分析链接
+## Stock Analysis Links
+
+### 中国股票分析
+### China Stock Analysis
+
+- [300750 分析](./300750.html)
+- [002475 分析](./002475.html) 
+- [002984 分析](./002984.html)
+- [000333 美的集团分析](./000333.html)
+- [002032 苏泊尔分析](./002032.html)
+
+### 美股分析 
+### US Stock Analysis
+
+- [NVDA 英伟达分析](./NVDA.html)
+- [MSFT 微软分析](./MSFT.html)
+- [ORCL 甲骨文分析](./ORCL.html)
+- []
+
+---
+
 [Come back Home Page](/.)
