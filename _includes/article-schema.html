@@ -5,7 +5,7 @@
   "@type": "Article",
   "headline": "{{ page.title | default: site.title }}",
   "description": "{{ page.description | default: site.description }}",
-  "image": "{{ page.image | default: site.logo | absolute_url }}",
+  "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}https://4lifeveda.com/favicon.ico{% endif %}",
   "author": {
     "@type": "Person",
     "name": "Life Veda"
@@ -18,10 +18,10 @@
       "url": "https://4lifeveda.com/favicon.ico"
     }
   },
-  "url": "{{ page.url | absolute_url }}",
+  "url": "https://4lifeveda.com{{ page.url }}",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url }}"
+    "@id": "https://4lifeveda.com{{ page.url }}"
   },
   "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: site.time | date_to_xmlschema }}"
