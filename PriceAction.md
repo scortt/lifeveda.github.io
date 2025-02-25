@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Price Action Analysis | Understanding Market Trends and Oscillations
+description: Comprehensive guide to price action trading, defining trends and oscillations in financial markets. Learn how to identify genuine market trends across different timeframes.
+keywords: price action, trading, market trends, oscillations, bull market, bear market, technical analysis
 ---
 
 # 我们来考虑价格行为
@@ -199,7 +202,26 @@ But if we enlarge Apple's K-line to the weekly level, we can see more trends and
 - [NVDA 英伟达分析](./NVDA.html)
 - [MSFT 微软分析](./MSFT.html)
 - [ORCL 甲骨文分析](./ORCL.html)
-- []
+- [AAPL 苹果分析](./AAPL.html)
+- [TSLA 特斯拉分析](./TSLA.html)
+- [PLTR Palantir分析](./PLTR.html)
+
+### Chinese Stock Analysis
+
+- [000333 美的集团分析](./000333.html)
+- [002032 浙江建机分析](./002032.html)
+- [002475 立讯精密分析](./002475.html)
+- [002984 森麒麟分析](./002984.html)
+- [300750 宁德时代分析](./300750.html)
+
+### Related Investment Resources
+
+- [投资入门指南](./TheTipsForInvest.html)
+- [经济指标解析](./EIforP.html)
+- [宏观经济分析](./MacroEco.html)
+- [基础经济学笔记](./BasicEconomicsNote.html)
+
+[查看所有股票分析](./stock-analysis.html) | [返回首页](./index.html)
 
 ---
 

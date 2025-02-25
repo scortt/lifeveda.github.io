@@ -1,0 +1,29 @@
+<!-- Schema.org structured data for articles -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | default: site.title }}",
+  "description": "{{ page.description | default: site.description }}",
+  "image": "{{ page.image | default: site.logo | absolute_url }}",
+  "author": {
+    "@type": "Person",
+    "name": "Life Veda"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Life Veda",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://4lifeveda.com/favicon.ico"
+    }
+  },
+  "url": "{{ page.url | absolute_url }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
+  "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: site.time | date_to_xmlschema }}"
+}
+</script> 

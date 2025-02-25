@@ -10,10 +10,19 @@ Disallow: /README.md
 
 # Allow search engines to access all content pages
 Allow: /*.html$
+Allow: /*.md$
+
+# Explicitly allow important content
+Allow: /index.html
+Allow: /PriceAction.html
+Allow: /NVDA.html
+Allow: /stock-analysis.html
+Allow: /TheTipsForInvest.html
+Allow: /EIforP.html
 
 # Specify sitemap location
 Sitemap: https://4lifeveda.com/sitemap.xml
 
-# Crawl-delay to prevent server overload
-Crawl-delay: 10
+# Crawl-delay to prevent server overload (reduced from 10 to 5)
+Crawl-delay: 5
 

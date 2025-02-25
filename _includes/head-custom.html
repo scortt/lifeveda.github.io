@@ -1,0 +1,45 @@
+<!-- Start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+{% if site.google_analytics %}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>
+{% endif %}
+
+<!-- You can set your favicon here -->
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+
+<!-- Schema.org structured data for the website -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Life Veda",
+  "url": "https://4lifeveda.com/",
+  "description": "Investment Analysis, Market Insights, and Trading Strategies",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://4lifeveda.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- Schema.org structured data for the organization -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Life Veda",
+  "url": "https://4lifeveda.com/",
+  "logo": "https://4lifeveda.com/favicon.ico"
+}
+</script>
+
+<!-- End custom head snippets --> 

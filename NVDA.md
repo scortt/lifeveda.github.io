@@ -1,3 +1,11 @@
+---
+layout: default
+title: NVIDIA (NVDA) Stock Analysis | Technical Outlook and Price Projections
+description: Detailed technical analysis of NVIDIA stock from monthly, weekly, and daily perspectives. Examining NVDA's historical price movements and potential future trends.
+keywords: NVDA, NVIDIA stock, technical analysis, stock market, semiconductor stocks, tech stocks
+date: 2025-01-28
+---
+
 # NVDA 分析日志
 
 - Date: 2025-01-28
@@ -24,4 +32,15 @@
 - 从日线上看，会简单很多，小的日线向上趋势在 Nov' 2024 结束，然后日线级别的震荡，然后现在向下突破。
 
 今天这个分析可能是一个很重要的分析，因为如果是这样的话，那么整个 NASDAQ 的行情可能就会结束，那这个需要很复杂的再分析。
+
+---
+
+## 相关分析
+
+- [价格行为分析](./PriceAction.html) - 了解如何识别市场趋势和震荡
+- [AAPL 苹果分析](./AAPL.html) - 另一个重要科技股的技术分析
+- [MSFT 微软分析](./MSFT.html) - 微软股票的技术分析
+- [宏观经济分析](./MacroEco.html) - 了解宏观经济对科技股的影响
+
+[查看所有股票分析](./stock-analysis.html) | [返回首页](./index.html)
 
