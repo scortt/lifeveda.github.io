@@ -26,7 +26,7 @@ layout: default
 
 ## Stock Analysis
 
-Explore our [complete stock analysis collection](./stock-analysis.html) for comprehensive market insights.
+Explore our [complete stock analysis collection](./stock-analysis.html) for comprehensive market insights or [find analysis by stock ticker symbol](./stock-codes.html).
 
 [NVDA Analysis](./NVDA.html)
 
