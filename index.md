@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Life Veda | Investment Analysis, Market Insights, and Trading Strategies
+description: Specialized blog focused on investment analysis, market insights, and trading strategies to help you make informed financial decisions.
+keywords: investment analysis, market insights, trading strategies, stock analysis, financial decisions
 ---
 
 ## About Life Veda
