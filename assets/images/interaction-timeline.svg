@@ -35,10 +35,24 @@
     <text x="450" y="110" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">~50亿设备</text>
     <text x="600" y="40" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">潜在100亿+设备</text>
     
-    <!-- 学习门槛曲线 -->
-    <path d="M 150,180 Q 225,200 300,210 T 450,230 T 600,240" stroke="#ff7f0e" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
-    <text x="120" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#ff7f0e">学习门槛</text>
-    <text x="670" y="240" font-family="Arial, sans-serif" font-size="12" text-anchor="start" fill="#ff7f0e">越来越低</text>
+    <!-- 学习门槛曲线 - 修改为更明显的阶梯式下降 -->
+    <path d="M 150,120 L 220,120 L 220,180 L 300,180 L 300,220 L 375,220 L 375,235 L 450,235 L 450,242 L 525,242 L 525,245 L 600,245" 
+          stroke="#ff7f0e" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
+    
+    <!-- 学习门槛标记点 -->
+    <circle cx="150" cy="120" r="5" fill="#ff7f0e"/>
+    <circle cx="300" cy="180" r="5" fill="#ff7f0e"/>
+    <circle cx="450" cy="235" r="5" fill="#ff7f0e"/>
+    <circle cx="600" cy="245" r="5" fill="#ff7f0e"/>
+    
+    <!-- 学习门槛标记 -->
+    <text x="120" y="120" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#ff7f0e">高学习门槛</text>
+    <text x="670" y="245" font-family="Arial, sans-serif" font-size="12" text-anchor="start" fill="#ff7f0e">极低学习门槛</text>
+    
+    <!-- 转折点注释 -->
+    <text x="220" y="160" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#ff7f0e">↓40%</text>
+    <text x="375" y="228" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#ff7f0e">↓30%</text>
+    <text x="525" y="240" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#ff7f0e">↓5%</text>
     
     <!-- 图例 -->
     <rect x="550" y="150" width="180" height="70" fill="white" opacity="0.8" rx="5" ry="5" stroke="#ccc"/>
