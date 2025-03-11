@@ -1,0 +1,49 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景 -->
+    <rect width="800" height="400" fill="#f8f9fa" rx="10" ry="10"/>
+    
+    <!-- 标题 -->
+    <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">交互方式的历史演变与用户规模</text>
+    
+    <!-- 时间轴 -->
+    <line x1="100" y1="250" x2="700" y2="250" stroke="#333" stroke-width="3"/>
+    
+    <!-- 时间节点 -->
+    <circle cx="150" cy="250" r="10" fill="#4285f4"/>
+    <circle cx="300" cy="250" r="10" fill="#34a853"/>
+    <circle cx="450" cy="250" r="10" fill="#fbbc05"/>
+    <circle cx="600" cy="250" r="10" fill="#ea4335"/>
+    
+    <!-- 时间标签 -->
+    <text x="150" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">1980年代</text>
+    <text x="300" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">1990年代</text>
+    <text x="450" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">2007年后</text>
+    <text x="600" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">2020年代+</text>
+    
+    <!-- 交互方式标签 -->
+    <text x="150" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#4285f4">键盘时代</text>
+    <text x="300" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#34a853">鼠标时代</text>
+    <text x="450" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#fbbc05">触摸屏时代</text>
+    <text x="600" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ea4335">语音/大模型时代</text>
+    
+    <!-- 用户规模曲线 -->
+    <path d="M 150,220 Q 225,215 300,200 T 450,120 T 600,50" stroke="#333" stroke-width="3" fill="none"/>
+    
+    <!-- 规模标识 -->
+    <text x="150" y="210" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">~1亿用户</text>
+    <text x="300" y="190" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">~5亿用户</text>
+    <text x="450" y="110" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">~50亿用户</text>
+    <text x="600" y="40" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#333">潜在100亿+用户</text>
+    
+    <!-- 学习门槛曲线 -->
+    <path d="M 150,180 Q 225,200 300,210 T 450,230 T 600,240" stroke="#ff7f0e" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
+    <text x="120" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#ff7f0e">学习门槛</text>
+    <text x="670" y="240" font-family="Arial, sans-serif" font-size="12" text-anchor="start" fill="#ff7f0e">越来越低</text>
+    
+    <!-- 图例 -->
+    <rect x="550" y="150" width="180" height="70" fill="white" opacity="0.8" rx="5" ry="5" stroke="#ccc"/>
+    <circle cx="570" cy="170" r="6" fill="#333"/>
+    <text x="585" y="175" font-family="Arial, sans-serif" font-size="14" fill="#333">用户规模</text>
+    <line x1="560" y1="195" x2="580" y2="195" stroke="#ff7f0e" stroke-width="3" stroke-dasharray="5,5"/>
+    <text x="585" y="200" font-family="Arial, sans-serif" font-size="14" fill="#ff7f0e">学习门槛</text>
+</svg> 
