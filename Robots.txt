@@ -19,10 +19,27 @@ Allow: /NVDA.html
 Allow: /stock-analysis.html
 Allow: /TheTipsForInvest.html
 Allow: /EIforP.html
+Allow: /MacroEco.html
+Allow: /BasicEconomicsNote.html
+Allow: /CrackingTheCode.html
+Allow: /stock-codes.html
+
+# Allow access to images and other media
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
 
 # Specify sitemap location
 Sitemap: https://4lifeveda.com/sitemap.xml
 
-# Crawl-delay to prevent server overload (reduced from 10 to 5)
+# Crawl-delay to prevent server overload
 Crawl-delay: 5
+
+# Additional directives for better crawling
+Allow: /sitemap.xml
+Allow: /robots.txt
+Allow: /favicon.ico
+Allow: /CNAME
 

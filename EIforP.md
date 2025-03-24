@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Economic Indicators Guide | Understanding GDP and Economic Statistics
+description: Comprehensive guide to economic indicators, focusing on GDP, employment data, and tax revenue. Learn how to interpret economic statistics and their impact on investment decisions.
+keywords: economic indicators, GDP, gross domestic product, economic statistics, employment data, tax revenue, economic analysis, monetary policy, inflation, economic growth
 ---
 
 # Reading Notes on "Economic Indicators for Professionals: Putting the Statistics into Perspective" 
@@ -46,5 +49,11 @@ GDP 的总量数据有两种报告形式：
 
 从 GDP 的角度来说，一个有效的货币体系的一个表征是这个货币体系可以在 GDP 的衡量基础上流向为 GDP 贡献更大的行业。这样的货币体系就会造成温和通胀和估计生产。如果相反，会流向对于 GDP 贡献不大，但是对于价格指数贡献比较大的领域，那么这个货币体系应该就会变成一个非有效体系而产生泡沫，这也会回到投资的领域。从这个角度来说， ROE 就是一个非常不好的指标，因为 ROE 很多时候是不排除非生产因素的。 当然对于一个企业来说，目标是为股东创造财富，来找 ROE 衡量无可厚非，但是这个对于货币体系是否创造泡沫则会有另外一番解释。
 
+## Related Resources
 
-[Come back Home Page](/.)
+- [Investment Tips](./TheTipsForInvest.html) - Learn how to make informed investment decisions
+- [Macroeconomic Analysis](./MacroEco.html) - Understanding broader economic trends
+- [Basic Economics Notes](./BasicEconomicsNote.html) - Fundamental economic concepts
+- [Stock Analysis Collection](./stock-analysis.html) - How economic indicators affect stock prices
+
+[Return to Home Page](./index.html)

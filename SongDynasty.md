@@ -1,5 +1,8 @@
 ---
 layout: default
+title: The Song Dynasty | A Golden Age of Chinese Civilization
+description: Comprehensive analysis of the Song Dynasty's prosperity, including population growth, agricultural production, fiscal policies, and institutional characteristics. Learn about this pivotal period in Chinese history.
+keywords: Song Dynasty, Chinese history, Northern Song, Southern Song, population history, agricultural development, fiscal policy, imperial examination, bureaucratic system, economic history
 ---
 
 # 《大宋繁华》 读书笔记
@@ -128,4 +131,11 @@ The result of enriching the ruling foundation was the so-called "prosperity" of 
 
 *However, I feel that the author didn't mention the Malthusian trap. Nor did they analyze the foundation of the entire Song Dynasty from a GDP perspective. In any case, if in ancient societies per capita GDP couldn't exceed the Malthusian trap, population growth would be a significant progress. This is because total GDP increases with population. Although this increase is linear and cannot break through the Malthusian trap, who could break through the Malthusian trap anyway?*
 
-[Go HOME PAGE](/.)
+## Related Resources
+
+- [Economic Indicators Guide](./EIforP.html) - Understanding GDP and economic growth
+- [Basic Economics Notes](./BasicEconomicsNote.html) - Fundamental economic concepts
+- [Macroeconomic Analysis](./MacroEco.html) - Broader economic context
+- [Investment Tips](./TheTipsForInvest.html) - Making informed investment decisions
+
+[Return to Home Page](./index.html)

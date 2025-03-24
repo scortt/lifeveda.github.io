@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Stock Analysis | Life Veda
-description: Comprehensive stock analysis, technical charts, and market insights for investors. Explore our detailed analysis of major stocks including NVDA, AAPL, MSFT and more.
+title: Stock Analysis | Comprehensive Market Analysis and Trading Insights
+description: Detailed technical and fundamental analysis of major stocks including NVDA, AAPL, MSFT, and Chinese stocks. Expert insights on price action, market trends, and trading strategies.
+keywords: stock analysis, technical analysis, market insights, trading strategies, price action, stock market, investment analysis, NVDA, AAPL, MSFT, Chinese stocks, market trends, trading opportunities
 ---
 
 # Stock Analysis
@@ -55,9 +56,10 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Related Resources
 
-- [Economic Indicators for Professionals](./EIforP.html)
-- [The Tips For Invest Before You Lose Your Money](./TheTipsForInvest.html)
-- [Macroeconomic Analysis](./MacroEco.html)
-- [Basic Economics Notes](./BasicEconomicsNote.html)
+- [Economic Indicators Guide](./EIforP.html) - Understanding key economic indicators
+- [Investment Tips](./TheTipsForInvest.html) - Making informed investment decisions
+- [Macroeconomic Analysis](./MacroEco.html) - Broader market context
+- [Basic Economics Notes](./BasicEconomicsNote.html) - Fundamental economic concepts
+- [Stock Codes Reference](./stock-codes.html) - Quick reference for stock symbols
 
-[Back to Home](./index.html) 
+[Return to Home Page](./index.html) 

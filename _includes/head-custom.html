@@ -15,6 +15,20 @@
 <!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
 
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://4lifeveda.com/favicon.ico{% endif %}">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta property="twitter:title" content="{{ page.title | default: site.title }}">
+<meta property="twitter:description" content="{{ page.description | default: site.description }}">
+<meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://4lifeveda.com/favicon.ico{% endif %}">
+
 <!-- Schema.org structured data for the website -->
 <script type="application/ld+json">
 {
@@ -38,8 +52,48 @@
   "@type": "Organization",
   "name": "Life Veda",
   "url": "https://4lifeveda.com/",
-  "logo": "https://4lifeveda.com/favicon.ico"
+  "logo": "https://4lifeveda.com/favicon.ico",
+  "sameAs": [
+    "https://twitter.com/lifeveda",
+    "https://linkedin.com/company/lifeveda"
+  ]
 }
 </script>
+
+<!-- Schema.org structured data for articles -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | default: site.title }}",
+  "description": "{{ page.description | default: site.description }}",
+  "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}https://4lifeveda.com/favicon.ico{% endif %}",
+  "author": {
+    "@type": "Person",
+    "name": "Life Veda"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Life Veda",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://4lifeveda.com/favicon.ico"
+    }
+  },
+  "url": "https://4lifeveda.com{{ page.url }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://4lifeveda.com{{ page.url }}"
+  },
+  "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: site.time | date_to_xmlschema }}"
+}
+</script>
+
+<!-- Additional meta tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://4lifeveda.com{{ page.url }}">
 
 <!-- End custom head snippets --> 
