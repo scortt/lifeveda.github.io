@@ -61,4 +61,4 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 Stay informed via social media or join our newsletter for fresh insights.
 
 ## Contact
-Questions or suggestions? Reach out on Twitter `@LifeVeda` or email **hi@lifeveda.com**.
+Questions or suggestions? Reach out on X.com `@sfoxzz` or email **sfoxzz@gmail.com**.
