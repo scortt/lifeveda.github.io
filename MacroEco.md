@@ -52,8 +52,7 @@ Recent years have provided a clear answer: when performance is exceptional, stoc
 - [AAPL Analysis](./AAPL.html) - Apple stock analysis
 
 #### Chinese Stocks
-- [0941 Analysis](./0941.html) - China Mobile analysis
-- [2628 Analysis](./2628.html) - China Life Insurance analysis
+- 0941 Analysis - China Mobile analysis (pending standalone page)
+- 2628 Analysis - China Life Insurance analysis (pending standalone page)
 
 [Return to Home Page](./index.html)
-

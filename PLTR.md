@@ -1,3 +1,10 @@
+---
+layout: default
+title: PLTR Stock Analysis
+description: Technical analysis and trading notes for Palantir (PLTR).
+last_modified_at: 2025-02-04
+---
+
 # PLTR
 
 ## Trade Card
@@ -49,5 +56,4 @@
 ![QQQ Daily Trends](https://www.tradingview.com/x/OKSwYR4o/)
 
 从最近的 PLTR 和 QQQ 的日线图对比上来看，我们可以明显看到其实 PLTR 的日线趋势是更强的，我们不应该在整体市场风声鹤唳的时候忘记备选池相对强弱的形态分析以及可能的形态分析。
-
 

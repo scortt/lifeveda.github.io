@@ -1,3 +1,10 @@
+---
+layout: default
+title: ORCL Stock Analysis
+description: Technical analysis and trading notes for Oracle (ORCL).
+last_modified_at: 2025-01-01
+---
+
 # ORCL 日常分析跟踪
 
 Date: 1 Jan' 2025

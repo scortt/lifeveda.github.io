@@ -2,13 +2,12 @@
 
 <!-- Setup Google Analytics -->
 {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{ site.google_analytics }}', 'auto');
-    ga('send', 'pageview');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
   </script>
 {% endif %}
 
@@ -17,29 +16,29 @@
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:title" content="{{ page.title | default: site.title }}">
 <meta property="og:description" content="{{ page.description | default: site.description }}">
-<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://4lifeveda.com/favicon.ico{% endif %}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/favicon.ico' | absolute_url }}{% endif %}">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta property="twitter:url" content="{{ page.url | absolute_url }}">
 <meta property="twitter:title" content="{{ page.title | default: site.title }}">
 <meta property="twitter:description" content="{{ page.description | default: site.description }}">
-<meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://4lifeveda.com/favicon.ico{% endif %}">
+<meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/favicon.ico' | absolute_url }}{% endif %}">
 
 <!-- Schema.org structured data for the website -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "Life Veda",
-  "url": "https://4lifeveda.com/",
-  "description": "Investment Analysis, Market Insights, and Trading Strategies",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}/",
+  "description": "{{ site.description }}",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://4lifeveda.com/?s={search_term_string}",
+    "target": "{{ site.url }}/?s={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -50,50 +49,18 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Life Veda",
-  "url": "https://4lifeveda.com/",
-  "logo": "https://4lifeveda.com/favicon.ico",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}/",
+  "logo": "{{ '/favicon.ico' | absolute_url }}",
   "sameAs": [
-    "https://twitter.com/lifeveda",
-    "https://linkedin.com/company/lifeveda"
+    "https://x.com/sfoxzz"
   ]
 }
 </script>
 
-<!-- Schema.org structured data for articles -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "{{ page.title | default: site.title }}",
-  "description": "{{ page.description | default: site.description }}",
-  "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}https://4lifeveda.com/favicon.ico{% endif %}",
-  "author": {
-    "@type": "Person",
-    "name": "Life Veda"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Life Veda",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://4lifeveda.com/favicon.ico"
-    }
-  },
-  "url": "https://4lifeveda.com{{ page.url }}",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://4lifeveda.com{{ page.url }}"
-  },
-  "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: site.time | date_to_xmlschema }}"
-}
-</script>
-
 <!-- Additional meta tags -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#ffffff">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://4lifeveda.com{{ page.url }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
 
 <!-- End custom head snippets --> 

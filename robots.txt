@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /.git/
+Disallow: /_layouts/
+Disallow: /_includes/
+Disallow: /README.md
+
+Sitemap: https://scortt.org/sitemap.xml

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Temple"
+description: "Article page for Temple."
+---
+
 # Symbol
 
 ## Trading Card

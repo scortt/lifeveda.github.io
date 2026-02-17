@@ -42,12 +42,11 @@ However, not all significant declines lead to trend reversals. For example, Tenc
 ### Stock Analysis
 #### US Stocks
 - [NVDA Analysis](./NVDA.html) - NVIDIA stock analysis
-- [META Analysis](./META.html) - Meta Platforms analysis
-- [NFLX Analysis](./NFLX.html) - Netflix analysis
-- [AMZN Analysis](./AMZN.html) - Amazon analysis
+- META Analysis - Meta Platforms analysis (pending standalone page)
+- NFLX Analysis - Netflix analysis (pending standalone page)
+- AMZN Analysis - Amazon analysis (pending standalone page)
 
 #### Chinese Stocks
-- [700 Analysis](./700.html) - Tencent analysis
+- 700 Analysis - Tencent analysis (pending standalone page)
 
 [Return to Home Page](./index.html)
-

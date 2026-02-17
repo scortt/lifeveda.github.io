@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CommonEconomic"
+description: "Article page for CommonEconomic."
+---
+
 我们这次要重写经济学。从第一性上考虑经济学。
 
 可谓自不量力。，而且我们希望缝合宏观经济学和围观经济学的鸿沟。

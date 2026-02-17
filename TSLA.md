@@ -1,3 +1,10 @@
+---
+layout: default
+title: TSLA Stock Analysis
+description: Technical analysis and trading notes for Tesla (TSLA).
+last_modified_at: 2025-03-16
+---
+
 # 特斯拉(TSLA)技术分析报告
 
 ## 交易卡片

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "TradingPriceActionTrends"
+description: "Article page for TradingPriceActionTrends."
+---
+
 # Trading Price Action Trends
 
 ## 交易趋势的重要性

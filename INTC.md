@@ -1,3 +1,10 @@
+---
+layout: default
+title: INTC Stock Analysis
+description: Technical analysis and trading notes for Intel (INTC).
+last_modified_at: 2025-02-28
+---
+
 # Symbol
 
 ## Trading Card

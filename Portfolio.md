@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Portfolio"
+description: "Article page for Portfolio."
+---
+
 我们来考虑投资组合
 
 我们应该有几个明确的点，就是短期需要操作的仓位数量要有限制。不能同时操作数个仓位。这样会影响整体的效率。

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NDX"
+description: "Article page for NDX."
+---
+
 # 纳斯达克100指数技术形态周报汇总
 
 本页面汇总了纳斯达克100指数的技术形态周报分析，按时间倒序排列，方便投资者追踪市场趋势变化。
