@@ -24,6 +24,7 @@ Looking for analysis on a specific stock? Find our detailed technical and fundam
 
 | Symbol | Company | Latest Analysis | Market |
 |--------|---------|----------------|--------|
+| [000792](./ChinaStock/000792/20260225.html) | Salt Lake Co. | [View Analysis](./ChinaStock/000792/20260225.html) | Shenzhen |
 | [000333](./000333.html) | Midea Group | [View Analysis](./000333.html) | Shenzhen |
 | [002032](./002032.html) | ZOOMLION | [View Analysis](./002032.html) | Shenzhen |
 | [002475](./002475.html) | Luxshare Precision | [View Analysis](./002475.html) | Shenzhen |
@@ -36,6 +37,7 @@ Looking for a specific stock symbol not listed above? Use our search function or
 
 ## Latest Stock Analysis Updates
 
+* 000792 - Updated on 2026-02-25
 * AAPL - Updated on 2025-02-11
 * NVDA - Updated on 2025-01-28
 * MSFT - Updated on 2025-01-31

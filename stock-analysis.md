@@ -31,6 +31,9 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [000792 Analysis (2026-02-25)](./ChinaStock/000792/20260225.html) - Updated: 2026-02-25
+> Bilingual price action notes for Salt Lake Co. (000792.SZ), focusing on post-suspension monthly structure, MTR confirmation, and weekly parabolic wedge reversal risk.
+
 ### [000333 Analysis](./000333.html) - Updated: 2025-01-20
 > Technical analysis of Midea Group (000333.SZ), one of China's largest home appliance manufacturers, examining price trends and market positioning.
 
