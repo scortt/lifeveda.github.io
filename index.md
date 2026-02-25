@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Life Veda – Investment Analysis & Market Insights
 description: Expert analysis on investment strategies, stock market trends, and economic indicators across US and Chinese markets.
-last_modified_at: 2025-04-28
+last_modified_at: 2026-02-25
 permalink: /
 ---
 
@@ -53,6 +53,7 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-02-25** – Added [MES / ES Daily Analysis](./MES/20260225_daily.html)  
 - **2025-02-11** – Updated [AAPL Analysis](./AAPL.html)  
 - **2025-01-31** – Updated [MSFT Analysis](./MSFT.html)  
 - **2025-01-28** – Updated [NVDA Analysis](./NVDA.html)  
