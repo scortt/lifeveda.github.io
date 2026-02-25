@@ -1,0 +1,7 @@
+# OS / editor noise
+.DS_Store
+
+# Local backups and scratch files (do not publish)
+PriceActionbak
+*.bak
+*~
