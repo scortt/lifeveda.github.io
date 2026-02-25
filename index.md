@@ -17,9 +17,9 @@ Welcome to **Life Veda**, a site where we decode markets with rigorous analysis 
 
 ## Featured Content
 ### Latest Stock Analysis
-- [NVIDIA (NVDA)](./NVDA.html) – Updated 2025-01-28  
 - [Apple (AAPL)](./AAPL.html) – Updated 2025-02-11  
 - [Microsoft (MSFT)](./MSFT.html) – Updated 2025-01-31  
+- [NVIDIA (NVDA)](./NVDA.html) – Updated 2025-01-28  
 
 ### Popular Topics
 - [Price Action Analysis](./PriceAction.html) – Understanding market trends  
@@ -53,6 +53,7 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-02-25** – Added [Wanhua Chemical (600309) Monthly Breakout and Daily Broad Channel Notes](./ChinaStock/600309/20260225.html)  
 - **2026-02-25** – Added [Salt Lake Co. (000792) Monthly and Weekly Analysis](./ChinaStock/000792/20260225.html)  
 - **2026-02-25** – Added [MES / ES Daily Analysis](./MES/20260225_daily.html)  
 - **2025-02-11** – Updated [AAPL Analysis](./AAPL.html)  

@@ -31,6 +31,9 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [600309 Analysis (2026-02-25)](./ChinaStock/600309/20260225.html) - Updated: 2026-02-25
+> Bilingual price action notes for Wanhua Chemical (600309.SH), covering a monthly downtrend-line breakout, possible wedge context, and a daily broad-channel plan around EMA20 with a weekly EMA20 test risk.
+
 ### [000792 Analysis (2026-02-25)](./ChinaStock/000792/20260225.html) - Updated: 2026-02-25
 > Bilingual price action notes for Salt Lake Co. (000792.SZ), focusing on post-suspension monthly structure, MTR confirmation, and weekly parabolic wedge reversal risk.
 
