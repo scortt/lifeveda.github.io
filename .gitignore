@@ -1,5 +1,18 @@
 # OS / editor noise
 .DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jekyll / Ruby build artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+.ruby-lsp/
+vendor/bundle/
 
 # Local backups and scratch files (do not publish)
 PriceActionbak
