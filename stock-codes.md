@@ -24,6 +24,7 @@ Looking for analysis on a specific stock? Find our detailed technical and fundam
 
 | Symbol | Company | Latest Analysis | Market |
 |--------|---------|----------------|--------|
+| [000951](./ChinaStock/000951/20260301.html) | Sinotruk | [View Analysis](./ChinaStock/000951/20260301.html) | Shenzhen |
 | [601600](./ChinaStock/601600/20260301.html) | Aluminum Corporation of China | [View Analysis](./ChinaStock/601600/20260301.html) | Shanghai |
 | [601799](./ChinaStock/601799/20260301.html) | Xingyu Automotive Lighting | [View Analysis](./ChinaStock/601799/20260301.html) | Shanghai |
 | [002372](./ChinaStock/002372/20260301.html) | Weixing New Building Materials | [View Analysis](./ChinaStock/002372/20260301.html) | Shenzhen |
@@ -41,6 +42,7 @@ Looking for a specific stock symbol not listed above? Use our search function or
 
 ## Latest Stock Analysis Updates
 
+- 000951 - Updated on 2026-03-01
 - 601600 - Updated on 2026-03-01
 - 601799 - Updated on 2026-03-01
 - 002372 - Updated on 2026-03-01

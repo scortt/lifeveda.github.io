@@ -31,6 +31,9 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [000951 Analysis (2026-03-01)](./ChinaStock/000951/20260301.html) - Updated: 2026-03-01
+> Bilingual notes for Sinotruk (000951.SZ), highlighting monthly and weekly broad-channel resistance, with a short daily tight-channel waiting window.
+
 ### [601600 Analysis (2026-03-01)](./ChinaStock/601600/20260301.html) - Updated: 2026-03-01
 > Bilingual notes for Aluminum Corporation of China (601600.SH), covering a monthly breakout context, a weekly broad bull channel, and a daily Bull Channel + Trading Range structure around EMA20.
 
