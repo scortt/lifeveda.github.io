@@ -53,6 +53,7 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-01** – Added [Market Hottake (2026-03-01)](./hottake/20260301.html)  
 - **2026-03-01** – Updated [Price Action Video Notes 09: Pullbacks and Bar Counting](./PriceActionNotes/09.html)  
 - **2026-02-27** – Added [MES / ES Review (2026-02-27)](./MES/20260227_review.html)  
 - **2026-02-26** – Added [MES / ES Daily Analysis (Broad Channel vs Failed Wedge)](./MES/20260226_daily.html)  
