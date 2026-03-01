@@ -24,6 +24,7 @@ Looking for analysis on a specific stock? Find our detailed technical and fundam
 
 | Symbol | Company | Latest Analysis | Market |
 |--------|---------|----------------|--------|
+| [000423](./ChinaStock/000423/20260301.html) | Dong-E-E-Jiao | [View Analysis](./ChinaStock/000423/20260301.html) | Shenzhen |
 | [603501](./ChinaStock/603501/20260301.html) | OmniVision Group | [View Analysis](./ChinaStock/603501/20260301.html) | Shanghai |
 | [300776](./ChinaStock/300776/20260301.html) | DR Laser | [View Analysis](./ChinaStock/300776/20260301.html) | Shenzhen |
 | [000951](./ChinaStock/000951/20260301.html) | Sinotruk | [View Analysis](./ChinaStock/000951/20260301.html) | Shenzhen |
@@ -44,6 +45,7 @@ Looking for a specific stock symbol not listed above? Use our search function or
 
 ## Latest Stock Analysis Updates
 
+- 000423 - Updated on 2026-03-01
 - 603501 - Updated on 2026-03-01
 - 300776 - Updated on 2026-03-01
 - 000951 - Updated on 2026-03-01

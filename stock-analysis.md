@@ -31,6 +31,9 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [000423 Analysis (2026-03-01)](./ChinaStock/000423/20260301.html) - Updated: 2026-03-01
+> Bilingual notes for Dong-E-E-Jiao (000423.SZ), covering a weekly trading-range scalp setup with a target near 62 and a daily pullback/H2 watch.
+
 ### [603501 Analysis (2026-03-01)](./ChinaStock/603501/20260301.html) - Updated: 2026-03-01
 > Bilingual notes for OmniVision Group (603501.SH), discussing a weekly trading-range scalp idea and daily targets around 135 with extension potential toward 155.
 
