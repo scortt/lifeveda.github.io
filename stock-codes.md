@@ -24,6 +24,9 @@ Looking for analysis on a specific stock? Find our detailed technical and fundam
 
 | Symbol | Company | Latest Analysis | Market |
 |--------|---------|----------------|--------|
+| [601600](./ChinaStock/601600/20260301.html) | Aluminum Corporation of China | [View Analysis](./ChinaStock/601600/20260301.html) | Shanghai |
+| [601799](./ChinaStock/601799/20260301.html) | Xingyu Automotive Lighting | [View Analysis](./ChinaStock/601799/20260301.html) | Shanghai |
+| [002372](./ChinaStock/002372/20260301.html) | Weixing New Building Materials | [View Analysis](./ChinaStock/002372/20260301.html) | Shenzhen |
 | [600309](./ChinaStock/600309/20260225.html) | Wanhua Chemical | [View Analysis](./ChinaStock/600309/20260225.html) | Shanghai |
 | [000792](./ChinaStock/000792/20260225.html) | Salt Lake Co. | [View Analysis](./ChinaStock/000792/20260225.html) | Shenzhen |
 | [000333](./000333.html) | Midea Group | [View Analysis](./000333.html) | Shenzhen |
@@ -38,12 +41,15 @@ Looking for a specific stock symbol not listed above? Use our search function or
 
 ## Latest Stock Analysis Updates
 
-* 600309 - Updated on 2026-02-25
-* 000792 - Updated on 2026-02-25
-* AAPL - Updated on 2025-02-11
-* NVDA - Updated on 2025-01-28
-* MSFT - Updated on 2025-01-31
-* PLTR - Updated on 2025-02-04
-* TSLA - Updated on 2025-02-08
+- 601600 - Updated on 2026-03-01
+- 601799 - Updated on 2026-03-01
+- 002372 - Updated on 2026-03-01
+- 600309 - Updated on 2026-02-25
+- 000792 - Updated on 2026-02-25
+- AAPL - Updated on 2025-02-11
+- NVDA - Updated on 2025-01-28
+- MSFT - Updated on 2025-01-31
+- PLTR - Updated on 2025-02-04
+- TSLA - Updated on 2025-02-08
 
 [Back to Home](./index.html) | [View All Stock Analysis](./stock-analysis.html) 

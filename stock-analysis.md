@@ -31,6 +31,15 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [601600 Analysis (2026-03-01)](./ChinaStock/601600/20260301.html) - Updated: 2026-03-01
+> Bilingual notes for Aluminum Corporation of China (601600.SH), covering a monthly breakout context, a weekly broad bull channel, and a daily Bull Channel + Trading Range structure around EMA20.
+
+### [601799 Analysis (2026-03-01)](./ChinaStock/601799/20260301.html) - Updated: 2026-03-01
+> Bilingual notes for Xingyu Automotive Lighting (601799.SH), focusing on weekly range-break potential and a daily tight bull channel with a 1x measured-move projection near 164.
+
+### [002372 Analysis (2026-03-01)](./ChinaStock/002372/20260301.html) - Updated: 2026-03-01
+> Bilingual notes for Weixing New Building Materials (002372.SZ), tracking a weekly breakout background and a daily breakout-mode trading range around 12.0-12.8.
+
 ### [600309 Analysis (2026-02-25)](./ChinaStock/600309/20260225.html) - Updated: 2026-02-25
 > Bilingual price action notes for Wanhua Chemical (600309.SH), covering a monthly downtrend-line breakout, possible wedge context, and a daily broad-channel plan around EMA20 with a weekly EMA20 test risk.
 
