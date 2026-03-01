@@ -53,6 +53,7 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-01** – Added [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html)  
 - **2026-03-01** – Added [东阿阿胶（000423）分析](./ChinaStock/000423/20260301.html)  
 - **2026-03-01** – Added [豪威集团（603501）分析](./ChinaStock/603501/20260301.html)  
 - **2026-03-01** – Added [帝尔激光（300776）分析](./ChinaStock/300776/20260301.html)  
