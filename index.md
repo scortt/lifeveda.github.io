@@ -53,6 +53,8 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-01** – Added [豪威集团（603501）分析](./ChinaStock/603501/20260301.html)  
+- **2026-03-01** – Added [帝尔激光（300776）分析](./ChinaStock/300776/20260301.html)  
 - **2026-03-01** – Added [中国重汽（000951）分析](./ChinaStock/000951/20260301.html)  
 - **2026-03-01** – Added [伟星新材（002372）分析](./ChinaStock/002372/20260301.html)  
 - **2026-03-01** – Added [中国铝业（601600）分析](./ChinaStock/601600/20260301.html)  

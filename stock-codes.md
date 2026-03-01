@@ -24,6 +24,8 @@ Looking for analysis on a specific stock? Find our detailed technical and fundam
 
 | Symbol | Company | Latest Analysis | Market |
 |--------|---------|----------------|--------|
+| [603501](./ChinaStock/603501/20260301.html) | OmniVision Group | [View Analysis](./ChinaStock/603501/20260301.html) | Shanghai |
+| [300776](./ChinaStock/300776/20260301.html) | DR Laser | [View Analysis](./ChinaStock/300776/20260301.html) | Shenzhen |
 | [000951](./ChinaStock/000951/20260301.html) | Sinotruk | [View Analysis](./ChinaStock/000951/20260301.html) | Shenzhen |
 | [601600](./ChinaStock/601600/20260301.html) | Aluminum Corporation of China | [View Analysis](./ChinaStock/601600/20260301.html) | Shanghai |
 | [601799](./ChinaStock/601799/20260301.html) | Xingyu Automotive Lighting | [View Analysis](./ChinaStock/601799/20260301.html) | Shanghai |
@@ -42,6 +44,8 @@ Looking for a specific stock symbol not listed above? Use our search function or
 
 ## Latest Stock Analysis Updates
 
+- 603501 - Updated on 2026-03-01
+- 300776 - Updated on 2026-03-01
 - 000951 - Updated on 2026-03-01
 - 601600 - Updated on 2026-03-01
 - 601799 - Updated on 2026-03-01

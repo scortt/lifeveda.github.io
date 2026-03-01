@@ -31,6 +31,12 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [603501 Analysis (2026-03-01)](./ChinaStock/603501/20260301.html) - Updated: 2026-03-01
+> Bilingual notes for OmniVision Group (603501.SH), discussing a weekly trading-range scalp idea and daily targets around 135 with extension potential toward 155.
+
+### [300776 Analysis (2026-03-01)](./ChinaStock/300776/20260301.html) - Updated: 2026-03-01
+> Bilingual notes for DR Laser (300776.SZ), covering a weekly breakout structure with a first measured-move target near 127 and a daily follow-through read.
+
 ### [000951 Analysis (2026-03-01)](./ChinaStock/000951/20260301.html) - Updated: 2026-03-01
 > Bilingual notes for Sinotruk (000951.SZ), highlighting monthly and weekly broad-channel resistance, with a short daily tight-channel waiting window.
 
