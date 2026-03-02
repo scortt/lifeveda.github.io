@@ -29,7 +29,25 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 ### [TSLA Analysis](./TSLA.html) - Updated: 2025-02-08
 > Technical analysis of Tesla (TSLA) stock, examining price patterns, support and resistance levels, and potential future movements.
 
+### [AAPL Analysis (2026-03-02)](./USstockss/AAPL/20260302.html) - Updated: 2026-03-02
+> Dated bilingual note for Apple (AAPL), tracking monthly broad-channel resilience against weekly EMA-gap pressure.
+
+### [META Analysis (2026-03-02)](./USstockss/META/20260302.html) - Updated: 2026-03-02
+> Dated bilingual note for Meta (META), highlighting monthly trend support while weekly BOM risk leans to the downside.
+
+### [MSFT Analysis (2026-03-02)](./USstockss/MSFT/20260302.html) - Updated: 2026-03-02
+> Dated bilingual note for Microsoft (MSFT), focusing on weak rebound behavior and the key 420 upside trigger.
+
+### [NVDA Analysis (2026-03-02)](./USstockss/NVDA/20260302.html) - Updated: 2026-03-02
+> Dated bilingual note for NVIDIA (NVDA), covering weekly gap support and daily 170 breakdown risk.
+
 ## Chinese Stocks
+
+### [000792 Analysis (2026-03-02)](./ChinaStock/000792/20260302.html) - Updated: 2026-03-02
+> Bilingual follow-up notes for Salt Lake Co. (000792.SZ), reassessing post-climax structure, gap-fill behavior, and H2 continuation conditions.
+
+### [603345 Analysis (2026-03-02)](./ChinaStock/603345/20260302.html) - Updated: 2026-03-02
+> Bilingual notes for Anjoy Foods (603345.SH), combining monthly breakout context with daily/weekly channel-based execution planning.
 
 ### [000423 Analysis (2026-03-01)](./ChinaStock/000423/20260301.html) - Updated: 2026-03-01
 > Bilingual notes for Dong-E-E-Jiao (000423.SZ), covering a weekly trading-range scalp setup with a target near 62 and a daily pullback/H2 watch.
@@ -54,9 +72,6 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ### [600309 Analysis (2026-02-25)](./ChinaStock/600309/20260225.html) - Updated: 2026-02-25
 > Bilingual price action notes for Wanhua Chemical (600309.SH), covering a monthly downtrend-line breakout, possible wedge context, and a daily broad-channel plan around EMA20 with a weekly EMA20 test risk.
-
-### [000792 Analysis (2026-02-25)](./ChinaStock/000792/20260225.html) - Updated: 2026-02-25
-> Bilingual price action notes for Salt Lake Co. (000792.SZ), focusing on post-suspension monthly structure, MTR confirmation, and weekly parabolic wedge reversal risk.
 
 ### [000333 Analysis](./000333.html) - Updated: 2025-01-20
 > Technical analysis of Midea Group (000333.SZ), one of China's largest home appliance manufacturers, examining price trends and market positioning.

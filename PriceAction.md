@@ -174,7 +174,8 @@ Technical indicator support + pattern analysis can better assist us in judging t
 - [MES / ES Daily Analysis (2026-02-25)](./MES/20260225_daily.html) - 日线与 60 分钟级别结构跟踪
 
 ### Price Action Video Notes
-- [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html) - 持续持仓、Always In 方向、突破单执行与保护性止损（中英对照，2026-03-01 更新）
+- [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html) - 趋势定义、通道结构、止损位置与动态画线（中英对照，2026-03-02 更新）
+- [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html) - 持续持仓、Always In 方向、突破单执行与保护性止损（中英对照，2026-03-02 更新）
 - [Price Action Video Notes 09: Pullbacks and Bar Counting](./PriceActionNotes/09.html) - 回调定义、H/L 计数与楔形结构要点（中英对照，2026-03-01 更新）
 
 [Return to Home Page](./index.html)

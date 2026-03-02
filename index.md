@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Life Veda – Investment Analysis & Market Insights
 description: Expert analysis on investment strategies, stock market trends, and economic indicators across US and Chinese markets.
-last_modified_at: 2026-03-01
+last_modified_at: 2026-03-02
 permalink: /
 ---
 
@@ -17,9 +17,9 @@ Welcome to **Life Veda**, a site where we decode markets with rigorous analysis 
 
 ## Featured Content
 ### Latest Stock Analysis
-- [Apple (AAPL)](./AAPL.html) – Updated 2025-02-11  
-- [Microsoft (MSFT)](./MSFT.html) – Updated 2025-01-31  
-- [NVIDIA (NVDA)](./NVDA.html) – Updated 2025-01-28  
+- [Apple (AAPL)](./USstockss/AAPL/20260302.html) – Updated 2026-03-02
+- [Microsoft (MSFT)](./USstockss/MSFT/20260302.html) – Updated 2026-03-02
+- [NVIDIA (NVDA)](./USstockss/NVDA/20260302.html) – Updated 2026-03-02
 
 ### Popular Topics
 - [Price Action Analysis](./PriceAction.html) – Understanding market trends  
@@ -53,6 +53,14 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-02** – Updated [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html)
+- **2026-03-02** – Added [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html)
+- **2026-03-02** – Added [Salt Lake Co. (000792) Follow-Up: Post-Climax Gap and H2 Watch](./ChinaStock/000792/20260302.html)
+- **2026-03-02** – Added [Anjoy Foods (603345) Multi-Timeframe Channel Plan](./ChinaStock/603345/20260302.html)
+- **2026-03-02** – Added [AAPL Multi-Timeframe Read: Monthly Resilience vs Weekly Pressure](./USstockss/AAPL/20260302.html)
+- **2026-03-02** – Added [META Structure Watch: Monthly Strength, Weekly BOM Risk](./USstockss/META/20260302.html)
+- **2026-03-02** – Added [MSFT Multi-Timeframe Review: Weak Rebound and 420 Breakout Watch](./USstockss/MSFT/20260302.html)
+- **2026-03-02** – Added [NVDA Weekly-Daily Watch: Key Gap Support and 170 Breakdown Risk](./USstockss/NVDA/20260302.html)
 - **2026-03-01** – Added [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html)  
 - **2026-03-01** – Added [东阿阿胶（000423）分析](./ChinaStock/000423/20260301.html)  
 - **2026-03-01** – Added [豪威集团（603501）分析](./ChinaStock/603501/20260301.html)  
