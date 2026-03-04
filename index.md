@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Life Veda – Investment Analysis & Market Insights
 description: Expert analysis on investment strategies, stock market trends, and economic indicators across US and Chinese markets.
-last_modified_at: 2026-03-02
+last_modified_at: 2026-03-03
 permalink: /
 ---
 
@@ -53,6 +53,7 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-03** – Added [MES / ES Review (2026-03-03)](./MES/20260303_review.html)
 - **2026-03-02** – Added [MES / ES Review (2026-03-02)](./MES/20260302_review.html)
 - **2026-03-02** – Updated [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html)
 - **2026-03-02** – Added [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html)
