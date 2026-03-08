@@ -169,6 +169,7 @@ Technical indicator support + pattern analysis can better assist us in judging t
 
 
 ### MES Daily Reviews
+- [MES / ES Review (2026-03-05)](./MES/20260305_review.html) - 开盘 Bull Trap 为核心结构，后续以跟随与失效位验证方向延续
 - [MES / ES Review (2026-03-04)](./MES/20260304_review.html) - 主观结构先行，重点跟踪关键位突破与后续跟随验证
 - [MES / ES Review (2026-03-03)](./MES/20260303_review.html) - 与官方图示存在局部分歧，维持自有结构判断并跟踪后续验证
 - [MES / ES Review (2026-03-02)](./MES/20260302_review.html) - 当日结构延续前一交易日判断，重点等待区间边缘的突破跟随确认
@@ -177,8 +178,12 @@ Technical indicator support + pattern analysis can better assist us in judging t
 - [MES / ES Daily Analysis (2026-02-25)](./MES/20260225_daily.html) - 日线与 60 分钟级别结构跟踪
 
 ### Price Action Video Notes
-- [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html) - 趋势定义、通道结构、止损位置与动态画线（中英对照，2026-03-02 更新）
+- [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html) - 趋势定义、突破与通道强弱、Spike + Channel 结构和陷阱管理（中英对照，2026-03-09 更新）
 - [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html) - 持续持仓、Always In 方向、突破单执行与保护性止损（中英对照，2026-03-02 更新）
 - [Price Action Video Notes 09: Pullbacks and Bar Counting](./PriceActionNotes/09.html) - 回调定义、H/L 计数与楔形结构要点（中英对照，2026-03-01 更新）
+
+### Price Action Case Studies
+- [Price Action Case Study 01: Failed Breakout Trap at Range Edge](./PriceActionNotes/CaseStudy/01.html) - 交易区间边缘假突破案例，强调“先等跟随，再谈入场”
+- [Price Action Case Study 02: Multi-Timeframe Stock Analysis Framework](./PriceActionNotes/CaseStudy/02.html) - 月线选股、周线主操盘、日线优化成本的三层执行框架
 
 [Return to Home Page](./index.html)

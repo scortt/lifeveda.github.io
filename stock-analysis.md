@@ -43,6 +43,21 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [603345 Analysis (2026-03-08)](./ChinaStock/603345/20260308.html) - Updated: 2026-03-08
+> Bilingual trendline-buy follow-up for Anjoy Foods (603345.SH), combining daily three-push exhaustion risk with weekly structure confirmation.
+
+### [000895 Analysis (2026-03-08)](./ChinaStock/000895/20260308.html) - Updated: 2026-03-08
+> Bilingual notes for Shuanghui Development (000895.SZ), focusing on channel continuation and a potential upside break of the 2022 trading range.
+
+### [300274 Analysis (2026-03-08)](./ChinaStock/300274/20260308.html) - Updated: 2026-03-08
+> Bilingual notes for Sungrow Power (300274.SZ), watching weekly support behavior and a daily double-bottom confirmation above EMA20.
+
+### [600862 Analysis (2026-03-08)](./ChinaStock/600862/20260308.html) - Updated: 2026-03-08
+> Bilingual follow-up for AVIC Hi-Tech (600862.SH), tracking monthly strength continuation with a staged target near 32 and daily channel risk control.
+
+### [600862 Analysis (2026-03-06)](./ChinaStock/600862/20260306.html) - Updated: 2026-03-06
+> Bilingual setup notes for AVIC Hi-Tech (600862.SH), prioritizing daily swing execution while monitoring weekly range breakout quality near 28.
+
 ### [000792 Analysis (2026-03-02)](./ChinaStock/000792/20260302.html) - Updated: 2026-03-02
 > Bilingual follow-up notes for Salt Lake Co. (000792.SZ), reassessing post-climax structure, gap-fill behavior, and H2 continuation conditions.
 

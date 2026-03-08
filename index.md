@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Life Veda – Investment Analysis & Market Insights
 description: Expert analysis on investment strategies, stock market trends, and economic indicators across US and Chinese markets.
-last_modified_at: 2026-03-04
+last_modified_at: 2026-03-09
 permalink: /
 ---
 
@@ -53,6 +53,15 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-09** – Updated [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html)
+- **2026-03-09** – Added [Price Action Case Study 02: Multi-Timeframe Stock Analysis Framework](./PriceActionNotes/CaseStudy/02.html)
+- **2026-03-09** – Added [Price Action Case Study 01: Failed Breakout Trap at Range Edge](./PriceActionNotes/CaseStudy/01.html)
+- **2026-03-08** – Added [Shuanghui Development (000895) Channel Hold Plan](./ChinaStock/000895/20260308.html)
+- **2026-03-08** – Added [Sungrow Power (300274) Double-Bottom Confirmation Watch](./ChinaStock/300274/20260308.html)
+- **2026-03-08** – Added [AVIC Hi-Tech (600862) Follow-Up Analysis](./ChinaStock/600862/20260308.html)
+- **2026-03-08** – Added [Anjoy Foods (603345) Trendline Buy Watch](./ChinaStock/603345/20260308.html)
+- **2026-03-06** – Added [AVIC Hi-Tech (600862) Daily Swing Plan](./ChinaStock/600862/20260306.html)
+- **2026-03-05** – Added [MES / ES Review (2026-03-05)](./MES/20260305_review.html)
 - **2026-03-04** – Added [MES / ES Review (2026-03-04)](./MES/20260304_review.html)
 - **2026-03-03** – Added [MES / ES Review (2026-03-03)](./MES/20260303_review.html)
 - **2026-03-02** – Added [MES / ES Review (2026-03-02)](./MES/20260302_review.html)
