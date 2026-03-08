@@ -29,7 +29,8 @@ Looking for analysis on a specific stock? Find our detailed technical and fundam
 | [600862](./ChinaStock/600862/20260308.html) | AVIC Hi-Tech | [View Analysis](./ChinaStock/600862/20260308.html) | Shanghai |
 | [300274](./ChinaStock/300274/20260308.html) | Sungrow Power | [View Analysis](./ChinaStock/300274/20260308.html) | Shenzhen |
 | [000895](./ChinaStock/000895/20260308.html) | Shuanghui Development | [View Analysis](./ChinaStock/000895/20260308.html) | Shenzhen |
-| [000792](./ChinaStock/000792/20260302.html) | Salt Lake Co. | [View Analysis](./ChinaStock/000792/20260302.html) | Shenzhen |
+| [301548](./ChinaStock/301548/20260308.html) | Chongde Technology | [View Analysis](./ChinaStock/301548/20260308.html) | Shenzhen |
+| [000792](./ChinaStock/000792/20260308.html) | Salt Lake Co. | [View Analysis](./ChinaStock/000792/20260308.html) | Shenzhen |
 | [000423](./ChinaStock/000423/20260301.html) | Dong-E-E-Jiao | [View Analysis](./ChinaStock/000423/20260301.html) | Shenzhen |
 | [603501](./ChinaStock/603501/20260301.html) | OmniVision Group | [View Analysis](./ChinaStock/603501/20260301.html) | Shanghai |
 | [300776](./ChinaStock/300776/20260301.html) | DR Laser | [View Analysis](./ChinaStock/300776/20260301.html) | Shenzhen |
@@ -54,7 +55,8 @@ Looking for a specific stock symbol not listed above? Use our search function or
 - 600862 - Updated on 2026-03-08
 - 300274 - Updated on 2026-03-08
 - 000895 - Updated on 2026-03-08
-- 000792 - Updated on 2026-03-02
+- 301548 - Updated on 2026-03-08
+- 000792 - Updated on 2026-03-08
 - AAPL - Updated on 2026-03-02
 - META - Updated on 2026-03-02
 - MSFT - Updated on 2026-03-02

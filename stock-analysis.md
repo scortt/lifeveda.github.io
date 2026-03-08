@@ -43,6 +43,12 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 
 ## Chinese Stocks
 
+### [000792 Analysis (2026-03-08)](./ChinaStock/000792/20260308.html) - Updated: 2026-03-08
+> Bilingual execution notes for Salt Lake Co. (000792.SZ), focused on a daily EMA20 support entry and channel-continuation validation.
+
+### [301548 Analysis (2026-03-08)](./ChinaStock/301548/20260308.html) - Updated: 2026-03-08
+> Bilingual plan for Chongde Technology (301548.SZ), holding the daily up-channel while managing post-1x measured-move pullback risk.
+
 ### [603345 Analysis (2026-03-08)](./ChinaStock/603345/20260308.html) - Updated: 2026-03-08
 > Bilingual trendline-buy follow-up for Anjoy Foods (603345.SH), combining daily three-push exhaustion risk with weekly structure confirmation.
 
