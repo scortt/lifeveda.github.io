@@ -169,6 +169,7 @@ Technical indicator support + pattern analysis can better assist us in judging t
 
 
 ### MES Daily Reviews
+- [MES / ES Review (2026-03-08)](./MES/20260308_review.html) - 盘面结构清晰但执行失误偏多，重点回到“先定结构与失效位，再机械执行”
 - [MES / ES Review (2026-03-05)](./MES/20260305_review.html) - 开盘 Bull Trap 为核心结构，后续以跟随与失效位验证方向延续
 - [MES / ES Review (2026-03-04)](./MES/20260304_review.html) - 主观结构先行，重点跟踪关键位突破与后续跟随验证
 - [MES / ES Review (2026-03-03)](./MES/20260303_review.html) - 与官方图示存在局部分歧，维持自有结构判断并跟踪后续验证
