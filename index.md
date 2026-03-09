@@ -54,6 +54,7 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-09** – Added [Price Action Video Notes 16: Broad Channels, Breakout Odds, and Countertrend Scalps](./PriceActionNotes/16.html)
 - **2026-03-09** – Added [MSFT Multi-Timeframe Follow-Up: Weekly Repair and 422 Range-Break Watch](./USstockss/MSFT/20260309.html)
 - **2026-03-09** – Added [NFLX Multi-Timeframe Read: Breakout Entry Logic After Reclaiming EMA20](./USstockss/NFLX/20260309.html)
 - **2026-03-09** – Added [PLTR Structure Follow-Up: Bull-Flag Opportunity vs Range-Top Risk](./USstockss/PLTR/20260309.html)
