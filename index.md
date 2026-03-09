@@ -17,9 +17,10 @@ Welcome to **Life Veda**, a site where we decode markets with rigorous analysis 
 
 ## Featured Content
 ### Latest Stock Analysis
+- [Microsoft (MSFT)](./USstockss/MSFT/20260309.html) – Updated 2026-03-09
+- [Netflix (NFLX)](./USstockss/NFLX/20260309.html) – Updated 2026-03-09
+- [Palantir (PLTR)](./USstockss/PLTR/20260309.html) – Updated 2026-03-09
 - [Apple (AAPL)](./USstockss/AAPL/20260302.html) – Updated 2026-03-02
-- [Microsoft (MSFT)](./USstockss/MSFT/20260302.html) – Updated 2026-03-02
-- [NVIDIA (NVDA)](./USstockss/NVDA/20260302.html) – Updated 2026-03-02
 
 ### Popular Topics
 - [Price Action Analysis](./PriceAction.html) – Understanding market trends  
@@ -53,6 +54,9 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-09** – Added [MSFT Multi-Timeframe Follow-Up: Weekly Repair and 422 Range-Break Watch](./USstockss/MSFT/20260309.html)
+- **2026-03-09** – Added [NFLX Multi-Timeframe Read: Breakout Entry Logic After Reclaiming EMA20](./USstockss/NFLX/20260309.html)
+- **2026-03-09** – Added [PLTR Structure Follow-Up: Bull-Flag Opportunity vs Range-Top Risk](./USstockss/PLTR/20260309.html)
 - **2026-03-09** – Added [MES / ES Review (2026-03-08)](./MES/20260308_review.html)
 - **2026-03-09** – Added [Salt Lake Co. (000792) EMA20 Support Buy Follow-Up](./ChinaStock/000792/20260308.html)
 - **2026-03-09** – Added [Chongde Technology (301548) Channel Hold with MM Risk Alert](./ChinaStock/301548/20260308.html)

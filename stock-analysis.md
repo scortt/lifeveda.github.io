@@ -29,6 +29,15 @@ Welcome to our Stock Analysis section. Here you'll find detailed technical and f
 ### [TSLA Analysis](./TSLA.html) - Updated: 2025-02-08
 > Technical analysis of Tesla (TSLA) stock, examining price patterns, support and resistance levels, and potential future movements.
 
+### [MSFT Analysis (2026-03-09)](./USstockss/MSFT/20260309.html) - Updated: 2026-03-09
+> Dated bilingual follow-up for Microsoft (MSFT), tracking weekly repair quality and a decisive 422 range-break trigger.
+
+### [NFLX Analysis (2026-03-09)](./USstockss/NFLX/20260309.html) - Updated: 2026-03-09
+> Dated bilingual note for Netflix (NFLX), focusing on monthly-weekly EMA20 reclaim alignment and breakout-buy execution.
+
+### [PLTR Analysis (2026-03-09)](./USstockss/PLTR/20260309.html) - Updated: 2026-03-09
+> Dated bilingual follow-up for Palantir (PLTR), balancing bull-flag continuation odds against range-top profit-taking risk.
+
 ### [AAPL Analysis (2026-03-02)](./USstockss/AAPL/20260302.html) - Updated: 2026-03-02
 > Dated bilingual note for Apple (AAPL), tracking monthly broad-channel resilience against weekly EMA-gap pressure.
 
