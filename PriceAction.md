@@ -179,6 +179,7 @@ Technical indicator support + pattern analysis can better assist us in judging t
 - [MES / ES Daily Analysis (2026-02-25)](./MES/20260225_daily.html) - 日线与 60 分钟级别结构跟踪
 
 ### Price Action Video Notes
+- [Price Action Video Notes 17: Tight Channels and Micro Channels](./PriceActionNotes/17_tightchannel.html) - 窄通道与微通道的识别、回调尺度、大小周期切换与高潮区分（中英对照，2026-03-10 更新）
 - [Price Action Video Notes 16: Broad Channels, Breakout Odds, and Countertrend Scalps](./PriceActionNotes/16.html) - 宽通道里顺逆势 `Scalp` 的阶段切换、突破后持续跟随与衰竭缺口判断（中英对照，2026-03-09 更新）
 - [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html) - 趋势定义、突破与通道强弱、Spike + Channel 结构和陷阱管理（中英对照，2026-03-09 更新）
 - [Price Action Video Notes 13: Holding Through Trends and Always-In Direction](./PriceActionNotes/13.html) - 持续持仓、Always In 方向、突破单执行与保护性止损（中英对照，2026-03-02 更新）

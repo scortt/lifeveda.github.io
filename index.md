@@ -3,7 +3,7 @@ layout: default
 lang: en
 title: Life Veda – Investment Analysis & Market Insights
 description: Expert analysis on investment strategies, stock market trends, and economic indicators across US and Chinese markets.
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-10
 permalink: /
 ---
 
@@ -54,6 +54,7 @@ Explore the [complete collection](./stock-analysis.html) or [search by ticker](.
 [How to Start Playing](./howtostartPlayingGame.html) – A curated path for newcomers.
 
 ## Latest Updates
+- **2026-03-10** – Added [Price Action Video Notes 17: Tight Channels and Micro Channels](./PriceActionNotes/17_tightchannel.html)
 - **2026-03-09** – Added [Price Action Video Notes 16: Broad Channels, Breakout Odds, and Countertrend Scalps](./PriceActionNotes/16.html)
 - **2026-03-09** – Added [MSFT Multi-Timeframe Follow-Up: Weekly Repair and 422 Range-Break Watch](./USstockss/MSFT/20260309.html)
 - **2026-03-09** – Added [NFLX Multi-Timeframe Read: Breakout Entry Logic After Reclaiming EMA20](./USstockss/NFLX/20260309.html)
