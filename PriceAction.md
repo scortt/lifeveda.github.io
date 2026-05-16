@@ -179,6 +179,7 @@ Technical indicator support + pattern analysis can better assist us in judging t
 - [MES / ES Daily Analysis (2026-02-25)](./MES/20260225_daily.html) - 日线与 60 分钟级别结构跟踪
 
 ### Price Action Video Notes
+- [Price Action Video Notes 22: Major Trend Reversal](./PriceActionNotes/22.html) - MTR 的次级别反转、EMA20 测试、后续 HL/LH 或 LL/HH 入场判断（中英对照，2026-03-11 更新）
 - [Price Action Video Notes 17: Tight Channels and Micro Channels](./PriceActionNotes/17_tightchannel.html) - 窄通道与微通道的识别、回调尺度、大小周期切换与高潮区分（中英对照，2026-03-10 更新）
 - [Price Action Video Notes 16: Broad Channels, Breakout Odds, and Countertrend Scalps](./PriceActionNotes/16.html) - 宽通道里顺逆势 `Scalp` 的阶段切换、突破后持续跟随与衰竭缺口判断（中英对照，2026-03-09 更新）
 - [Price Action Video Notes 14: Trends and Channels](./PriceActionNotes/14.html) - 趋势定义、突破与通道强弱、Spike + Channel 结构和陷阱管理（中英对照，2026-03-09 更新）
@@ -186,6 +187,7 @@ Technical indicator support + pattern analysis can better assist us in judging t
 - [Price Action Video Notes 09: Pullbacks and Bar Counting](./PriceActionNotes/09.html) - 回调定义、H/L 计数与楔形结构要点（中英对照，2026-03-01 更新）
 
 ### Price Action Case Studies
+- [Price Action Case Study 03: Opening Reversal and Fast Rally on 2026-04-02](./PriceActionNotes/CaseStudy/03.html) - 2026-04-02 开盘 MTR、快速上行、1分钟 H2 与惊喜 K 线复盘
 - [Price Action Case Study 01: Failed Breakout Trap at Range Edge](./PriceActionNotes/CaseStudy/01.html) - 交易区间边缘假突破案例，强调“先等跟随，再谈入场”
 - [Price Action Case Study 02: Multi-Timeframe Stock Analysis Framework](./PriceActionNotes/CaseStudy/02.html) - 月线选股、周线主操盘、日线优化成本的三层执行框架
 
