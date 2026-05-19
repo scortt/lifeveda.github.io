@@ -177,6 +177,7 @@ Technical indicator support + pattern analysis can better assist us in judging t
 - [MES / ES Review (2026-02-27)](./MES/20260227_review.html) - 当日结构简要复盘与后续跟踪锚点
 - [MES / ES Daily Analysis (2026-02-26)](./MES/20260226_daily.html) - 下降通道突破后，关注宽通道与失败楔形
 - [MES / ES Daily Analysis (2026-02-25)](./MES/20260225_daily.html) - 日线与 60 分钟级别结构跟踪
+- [MES / ES Review (2024-08-29)](./MES/20240829_review.html) - 开盘跳空突破后的二次确认，围绕 5654 与 5665 两个目标管理持仓
 
 ### Price Action Video Notes
 - [Price Action Video Notes 22: Major Trend Reversal](./PriceActionNotes/22.html) - MTR 的次级别反转、EMA20 测试、后续 HL/LH 或 LL/HH 入场判断（中英对照，2026-03-11 更新）
