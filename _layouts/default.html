@@ -12,6 +12,15 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <style>
+      .company-logo {
+        display: block;
+        width: 180px;
+        max-width: 100%;
+        height: auto;
+        margin: 0 0 14px;
+      }
+    </style>
     
     {% if page.url != '/' %}
       {% include article-schema.html %}
@@ -33,6 +42,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+        <img class="company-logo" src="{{ '/assets/images/brand/5veda-software-black-on-white.png' | relative_url }}" alt="5Veda Software">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
